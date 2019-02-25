@@ -1,3 +1,5 @@
+#!/bin/bash
+
 ADMINNAME="windowsadmin"
 ADMINPASSWORD="P@ssw0rd123!"
 
